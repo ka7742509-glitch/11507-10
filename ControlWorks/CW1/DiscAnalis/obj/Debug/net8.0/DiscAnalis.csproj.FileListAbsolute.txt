@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\11507-10\ControlWorks\CW1\DiscAnalis\bin\Debug\net8.0\DiscAnalis.exe
+C:\Users\user\Desktop\11507-10\ControlWorks\CW1\DiscAnalis\bin\Debug\net8.0\DiscAnalis.deps.json
+C:\Users\user\Desktop\11507-10\ControlWorks\CW1\DiscAnalis\bin\Debug\net8.0\DiscAnalis.runtimeconfig.json
+C:\Users\user\Desktop\11507-10\ControlWorks\CW1\DiscAnalis\bin\Debug\net8.0\DiscAnalis.dll
+C:\Users\user\Desktop\11507-10\ControlWorks\CW1\DiscAnalis\bin\Debug\net8.0\DiscAnalis.pdb
+C:\Users\user\Desktop\11507-10\ControlWorks\CW1\DiscAnalis\obj\Debug\net8.0\DiscAnalis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\11507-10\ControlWorks\CW1\DiscAnalis\obj\Debug\net8.0\DiscAnalis.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\11507-10\ControlWorks\CW1\DiscAnalis\obj\Debug\net8.0\DiscAnalis.AssemblyInfo.cs
+C:\Users\user\Desktop\11507-10\ControlWorks\CW1\DiscAnalis\obj\Debug\net8.0\DiscAnalis.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\11507-10\ControlWorks\CW1\DiscAnalis\obj\Debug\net8.0\DiscAnalis.sourcelink.json
+C:\Users\user\Desktop\11507-10\ControlWorks\CW1\DiscAnalis\obj\Debug\net8.0\DiscAnalis.dll
+C:\Users\user\Desktop\11507-10\ControlWorks\CW1\DiscAnalis\obj\Debug\net8.0\refint\DiscAnalis.dll
+C:\Users\user\Desktop\11507-10\ControlWorks\CW1\DiscAnalis\obj\Debug\net8.0\DiscAnalis.pdb
+C:\Users\user\Desktop\11507-10\ControlWorks\CW1\DiscAnalis\obj\Debug\net8.0\DiscAnalis.genruntimeconfig.cache
+C:\Users\user\Desktop\11507-10\ControlWorks\CW1\DiscAnalis\obj\Debug\net8.0\ref\DiscAnalis.dll

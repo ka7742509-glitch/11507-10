@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\11507-10\ControlWorks\CW1\PrinterEventArgs\bin\Debug\net8.0\PrinterEventArgs.exe
+C:\Users\user\Desktop\11507-10\ControlWorks\CW1\PrinterEventArgs\bin\Debug\net8.0\PrinterEventArgs.deps.json
+C:\Users\user\Desktop\11507-10\ControlWorks\CW1\PrinterEventArgs\bin\Debug\net8.0\PrinterEventArgs.runtimeconfig.json
+C:\Users\user\Desktop\11507-10\ControlWorks\CW1\PrinterEventArgs\bin\Debug\net8.0\PrinterEventArgs.dll
+C:\Users\user\Desktop\11507-10\ControlWorks\CW1\PrinterEventArgs\bin\Debug\net8.0\PrinterEventArgs.pdb
+C:\Users\user\Desktop\11507-10\ControlWorks\CW1\PrinterEventArgs\obj\Debug\net8.0\PrinterEventArgs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\11507-10\ControlWorks\CW1\PrinterEventArgs\obj\Debug\net8.0\PrinterEventArgs.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\11507-10\ControlWorks\CW1\PrinterEventArgs\obj\Debug\net8.0\PrinterEventArgs.AssemblyInfo.cs
+C:\Users\user\Desktop\11507-10\ControlWorks\CW1\PrinterEventArgs\obj\Debug\net8.0\PrinterEventArgs.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\11507-10\ControlWorks\CW1\PrinterEventArgs\obj\Debug\net8.0\PrinterEventArgs.sourcelink.json
+C:\Users\user\Desktop\11507-10\ControlWorks\CW1\PrinterEventArgs\obj\Debug\net8.0\PrinterEventArgs.dll
+C:\Users\user\Desktop\11507-10\ControlWorks\CW1\PrinterEventArgs\obj\Debug\net8.0\refint\PrinterEventArgs.dll
+C:\Users\user\Desktop\11507-10\ControlWorks\CW1\PrinterEventArgs\obj\Debug\net8.0\PrinterEventArgs.pdb
+C:\Users\user\Desktop\11507-10\ControlWorks\CW1\PrinterEventArgs\obj\Debug\net8.0\PrinterEventArgs.genruntimeconfig.cache
+C:\Users\user\Desktop\11507-10\ControlWorks\CW1\PrinterEventArgs\obj\Debug\net8.0\ref\PrinterEventArgs.dll

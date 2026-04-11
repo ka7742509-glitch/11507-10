@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\11507-10\ControlWorks\CW1\ObjectFactory\bin\Debug\net8.0\ObjectFactory.exe
+C:\Users\user\Desktop\11507-10\ControlWorks\CW1\ObjectFactory\bin\Debug\net8.0\ObjectFactory.deps.json
+C:\Users\user\Desktop\11507-10\ControlWorks\CW1\ObjectFactory\bin\Debug\net8.0\ObjectFactory.runtimeconfig.json
+C:\Users\user\Desktop\11507-10\ControlWorks\CW1\ObjectFactory\bin\Debug\net8.0\ObjectFactory.dll
+C:\Users\user\Desktop\11507-10\ControlWorks\CW1\ObjectFactory\bin\Debug\net8.0\ObjectFactory.pdb
+C:\Users\user\Desktop\11507-10\ControlWorks\CW1\ObjectFactory\obj\Debug\net8.0\ObjectFactory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\11507-10\ControlWorks\CW1\ObjectFactory\obj\Debug\net8.0\ObjectFactory.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\11507-10\ControlWorks\CW1\ObjectFactory\obj\Debug\net8.0\ObjectFactory.AssemblyInfo.cs
+C:\Users\user\Desktop\11507-10\ControlWorks\CW1\ObjectFactory\obj\Debug\net8.0\ObjectFactory.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\11507-10\ControlWorks\CW1\ObjectFactory\obj\Debug\net8.0\ObjectFactory.sourcelink.json
+C:\Users\user\Desktop\11507-10\ControlWorks\CW1\ObjectFactory\obj\Debug\net8.0\ObjectFactory.dll
+C:\Users\user\Desktop\11507-10\ControlWorks\CW1\ObjectFactory\obj\Debug\net8.0\refint\ObjectFactory.dll
+C:\Users\user\Desktop\11507-10\ControlWorks\CW1\ObjectFactory\obj\Debug\net8.0\ObjectFactory.pdb
+C:\Users\user\Desktop\11507-10\ControlWorks\CW1\ObjectFactory\obj\Debug\net8.0\ObjectFactory.genruntimeconfig.cache
+C:\Users\user\Desktop\11507-10\ControlWorks\CW1\ObjectFactory\obj\Debug\net8.0\ref\ObjectFactory.dll
